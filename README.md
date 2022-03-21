@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Category-UNC-blue)
+![](https://img.shields.io/badge/Category-Machine--Learning-success)
 
 # TextMining-Fake_Reviews_Dection
 Text Mining project:
