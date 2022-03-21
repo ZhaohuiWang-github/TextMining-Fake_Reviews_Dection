@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Category-UNC-blue)
+
 # TextMining-Fake_Reviews_Dection
 Text Mining project:
 
