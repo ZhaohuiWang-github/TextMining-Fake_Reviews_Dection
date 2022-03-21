@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Category-Machine--Learning-success)
+![](https://img.shields.io/badge/Program-Python-green)
 ![](https://img.shields.io/badge/Resource-UNC-blue)
 
 # TextMining-Fake_Reviews_Dection
